@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "TicTacToe",
+    "version": "1.0",
+    "description": "Play Tic-Tac-Toe in your Chrome popup!",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "dist/index.html"
+    }
+  }
+  
